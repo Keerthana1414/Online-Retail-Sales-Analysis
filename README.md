@@ -1,6 +1,5 @@
 # Analyzing Revenue Drivers for Strategic Planning: An Operations and Marketing Perspective for an Online Retail Store
 
-<img src=["https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fonline-sales&psig=AOvVaw31z0GE1V4wlHDUJr4JF0L_&ust=1681202188980000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND3z6z0nv4CFQAAAAAdAAAAABAE"](https://www.google.com/url?sa=i&url=https%3A%2F%2Feminence.ch%2Fen%2Fbest-strategies-and-tactics-to-boost-your-e-commerce-sales-in-2022%2F&psig=AOvVaw1RHQoRen9JqS9CpJGuFnVb&ust=1681205450434000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj_27-An_4CFQAAAAAdAAAAABAY)>
 
 
 This repository contains an in-depth analysis of an online retail store's revenue drivers, focusing on both marketing and operations perspectives. The analysis aims to identify key factors that contribute to the store's success and help the management plan strategically for future expansion.
