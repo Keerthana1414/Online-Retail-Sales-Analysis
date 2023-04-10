@@ -42,3 +42,7 @@ This repository contains an in-depth analysis of an online retail store's revenu
   <li>Overall, the customer base appears to be relatively diverse in terms of purchasing behavior, with a mix of high and low-value
 customers, and both frequent and infrequent purchasers.</li>
 </ul>
+
+## Dashboard
+
+https://public.tableau.com/app/profile/keerthi.ravi1015/viz/OnlineRetailDashboard_16771788417010/Dashboard1
