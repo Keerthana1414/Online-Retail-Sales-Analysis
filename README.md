@@ -1,5 +1,7 @@
 # Analyzing Revenue Drivers for Strategic Planning: An Operations and Marketing Perspective for an Online Retail Store
 
+<img src="https://www.merchantmaverick.com/wp-content/uploads/2018/02/International-selling.jpg" width="1000" 
+     height="350"/>
 
 
 This repository contains an in-depth analysis of an online retail store's revenue drivers, focusing on both marketing and operations perspectives. The analysis aims to identify key factors that contribute to the store's success and help the management plan strategically for future expansion.
