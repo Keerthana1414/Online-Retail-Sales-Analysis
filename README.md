@@ -1,4 +1,4 @@
-# Analyzing Revenue Drivers for Strategic Planning: An Operations and Marketing Perspective for an Online Retail Store
+## Analyzing Revenue Drivers for Strategic Planning: An Operations and Marketing Perspective for an Online Retail Store
 
 ![chart-5746589_1280-1600x800-1024x512](https://github.com/Keerthana1414/Online-Retail-Sales-Analysis/assets/122422604/0863a087-f67c-40c2-a28f-3be449b60a1c)
 
@@ -6,7 +6,7 @@
 This repository contains an in-depth analysis of an online retail store's revenue drivers, focusing on both marketing and operations perspectives. The analysis aims to identify key factors that contribute to the store's success and help the management plan strategically for future expansion.
 
 
-## User Manual
+### User Manual
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ This repository contains an in-depth analysis of an online retail store's revenu
 </table>
 
 
-## Analysis
+### Analysis
 
 <ul>
   <li>The dataset includes columns such as country, customerID, unit price, quantity, stockcode, and description.</li>
@@ -32,7 +32,7 @@ This repository contains an in-depth analysis of an online retail store's revenu
   <li>RFM analysis: The RFM analysis focused on identifying the most valuable customers based on recency, frequency, and monetary value.</li>
 </ul>
 
-## Insights 
+### Insights 
 
 <ul>
   <li>The majority of sales are concentrated in the European region, with minimal sales in the American region and even fewer sales in other regions.</li>
@@ -42,7 +42,7 @@ This repository contains an in-depth analysis of an online retail store's revenu
 customers, and both frequent and infrequent purchasers.</li>
 </ul>
 
-## Dashboard
+### Dashboard
 
 https://public.tableau.com/app/profile/keerthi.ravi1015/viz/OnlineRetailDashboard_16771788417010/Dashboard1
 
